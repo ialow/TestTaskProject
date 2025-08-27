@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374f2a166882946928aa3335c00b8fa7, type: 3}
+  m_Name: WeaponSystemConfig
+  m_EditorClassIdentifier: 
+  UserInput: {fileID: 11400000, guid: ea9e0f43302444102b19441515cc7870, type: 2}

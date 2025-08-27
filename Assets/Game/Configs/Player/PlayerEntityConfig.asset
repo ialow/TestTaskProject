@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd8385f4014464cc48320c90dcc8b356, type: 3}
+  m_Name: PlayerEntityConfig
+  m_EditorClassIdentifier: 
+  <Systems>k__BackingField:
+  - {fileID: 11400000, guid: a78dbf94977864ae1a4b29fb4993bd7f, type: 2}
+  - {fileID: 11400000, guid: 0cd9650cdadd14db18d25f27ce50f688, type: 2}
+  - {fileID: 11400000, guid: 15e0e1b672fcf431a93f46388438837b, type: 2}
+  - {fileID: 11400000, guid: 2d061c184117d4ab8b69e5f3122665d4, type: 2}
+  Children:
+  - Prefab: {fileID: 3174419277083559775, guid: 144754f8db4c0476ebeeed8f21d852ac, type: 3}
+    Config: {fileID: 11400000, guid: 20b0220ba376a493d9c5951180c3273d, type: 2}
+    LocalPosition: {x: 0.588, y: 0.136, z: 0.46}
+    LocalRotation: {x: 0, y: 0, z: 0, w: 0}
+  - Prefab: {fileID: 7334917699535467823, guid: a939fea69050449cca57631283dbcbd2, type: 3}
+    Config: {fileID: 11400000, guid: 9143f09efa9514e7abf501f16b2e8f51, type: 2}
+    LocalPosition: {x: -0.564, y: 0.136, z: 0.46}
+    LocalRotation: {x: 0, y: 0, z: 0, w: 0}
